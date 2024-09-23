@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulioGayosso
 - 👀 I’m interested in technology y science
-- 🌱 I’m currently learning  Phyton and React
+- 🌱 I'm currently learning Nodejs, Python and React
 - 💞️ I’m looking to collaborate on Big companies
 - 📫 How to reach me j_chalo@hotmail.com
 
